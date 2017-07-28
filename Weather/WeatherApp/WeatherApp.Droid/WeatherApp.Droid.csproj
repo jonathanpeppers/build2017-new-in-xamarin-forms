@@ -11,7 +11,6 @@
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
-    <AndroidApplication>True</AndroidApplication>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
     <AndroidSdkBuildToolsVersion>23.0.3</AndroidSdkBuildToolsVersion>
     <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
